@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mini_Task_Manager/static/css/main.95b283d4.chunk.css",
+    "main.js": "/Mini_Task_Manager/static/js/main.922e8ba0.chunk.js",
+    "main.js.map": "/Mini_Task_Manager/static/js/main.922e8ba0.chunk.js.map",
+    "runtime-main.js": "/Mini_Task_Manager/static/js/runtime-main.b9c60cc6.js",
+    "runtime-main.js.map": "/Mini_Task_Manager/static/js/runtime-main.b9c60cc6.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Mini_Task_Manager/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8f9b23ef.chunk.js": "/Mini_Task_Manager/static/js/2.8f9b23ef.chunk.js",
+    "static/js/2.8f9b23ef.chunk.js.map": "/Mini_Task_Manager/static/js/2.8f9b23ef.chunk.js.map",
+    "index.html": "/Mini_Task_Manager/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Mini_Task_Manager/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.95b283d4.chunk.css.map": "/Mini_Task_Manager/static/css/main.95b283d4.chunk.css.map",
+    "static/js/2.8f9b23ef.chunk.js.LICENSE.txt": "/Mini_Task_Manager/static/js/2.8f9b23ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9c60cc6.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8f9b23ef.chunk.js",
+    "static/css/main.95b283d4.chunk.css",
+    "static/js/main.922e8ba0.chunk.js"
+  ]
+}
